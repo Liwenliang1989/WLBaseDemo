@@ -1,0 +1,16 @@
+PODS:
+  - WLBaseDemo (0.1.0)
+
+DEPENDENCIES:
+  - WLBaseDemo (from `../`)
+
+EXTERNAL SOURCES:
+  WLBaseDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WLBaseDemo: a79259a11a6804af52a9366c7cc5752567956cfa
+
+PODFILE CHECKSUM: 61c5b91d03fff1626d5b84a2b97b05c8bb7f32a5
+
+COCOAPODS: 1.7.1

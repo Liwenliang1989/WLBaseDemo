@@ -1,0 +1,6 @@
+framework module WLBaseDemo {
+  umbrella header "WLBaseDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
