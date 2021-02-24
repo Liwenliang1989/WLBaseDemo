@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "WLBaseView.h"
 
 FOUNDATION_EXPORT double WLBaseDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char WLBaseDemoVersionString[];

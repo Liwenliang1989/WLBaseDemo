@@ -15,6 +15,8 @@ TODO: WLBaseDemo for project.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'WLBaseDemo/Classes/**/*'
+  s.source_files = 'WLBaseDemo/Classes/*.{h,m}'
+
+  s.public_header_files = 'WLBaseDemo/Classes/*.h'
 
 end
